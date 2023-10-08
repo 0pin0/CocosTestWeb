@@ -1,7 +1,7 @@
-System.register("bundle://abScene/_virtual/abScene",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/abScene",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/abScene', 'bundle://abScene/_virtual/abScene'); 
+  r('virtual:///prerequisite-imports/abScene', 'chunks:///_virtual/abScene'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

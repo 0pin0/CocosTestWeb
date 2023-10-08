@@ -1,7 +1,7 @@
-System.register("bundle://abTable/_virtual/abTable",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/abTable",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/abTable', 'bundle://abTable/_virtual/abTable'); 
+  r('virtual:///prerequisite-imports/abTable', 'chunks:///_virtual/abTable'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

@@ -1,7 +1,7 @@
-System.register("bundle://abEmptyScene/_virtual/abEmptyScene",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/abEmptyScene",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/abEmptyScene', 'bundle://abEmptyScene/_virtual/abEmptyScene'); 
+  r('virtual:///prerequisite-imports/abEmptyScene', 'chunks:///_virtual/abEmptyScene'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

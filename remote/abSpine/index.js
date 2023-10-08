@@ -1,7 +1,7 @@
-System.register("bundle://abSpine/_virtual/abSpine",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/abSpine",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/abSpine', 'bundle://abSpine/_virtual/abSpine'); 
+  r('virtual:///prerequisite-imports/abSpine', 'chunks:///_virtual/abSpine'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
