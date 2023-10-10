@@ -1,0 +1,26 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "loginAbList",
+    "deps": [],
+    "uuids": [
+        "2e7521fc-57d1-4eb6-9d32-bc16fe8abad7"
+    ],
+    "paths": {
+        "2e7521fc-57d1-4eb6-9d32-bc16fe8abad7": [
+            "abList",
+            "cc.TextAsset"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

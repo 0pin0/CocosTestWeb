@@ -1,0 +1,45 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "photo00101",
+    "deps": [],
+    "uuids": [
+        "03d1e9fec",
+        "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0",
+        "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@6c48a",
+        "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@f9941",
+        "6185adf5-06f2-4974-92fc-4d3b78be93f8"
+    ],
+    "paths": {
+        "6185adf5-06f2-4974-92fc-4d3b78be93f8": [
+            "photo",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "03d1e9fec": [
+            "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@f9941",
+            "6185adf5-06f2-4974-92fc-4d3b78be93f8"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {
+        "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@6c48a": [
+            "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0"
+        ],
+        "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@f9941": [
+            "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@6c48a"
+        ],
+        "6185adf5-06f2-4974-92fc-4d3b78be93f8": [
+            "12f42e4f-ea34-4c0f-ba0e-e7b209a2d9b0@f9941"
+        ]
+    }
+}

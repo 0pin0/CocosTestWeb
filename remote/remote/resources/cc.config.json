@@ -1,0 +1,134 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "03c3ec700",
+        "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9",
+        "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9@6c48a",
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968",
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@6c48a",
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@f9941",
+        "194dc1cf-d436-4b3a-b02d-baa080284ebd",
+        "194dc1cf-d436-4b3a-b02d-baa080284ebd@6c48a",
+        "2af2aa58-671b-4e31-b704-fb70797518bd",
+        "2af2aa58-671b-4e31-b704-fb70797518bd@6c48a",
+        "2e91899e-8494-4ea5-8a84-e66d42d450a3",
+        "344f4361-25de-4cc0-abd3-9531ff3ba6b5",
+        "735903a1-0554-42b5-a0c7-7eb69932f95a",
+        "76de13a0-47c2-49d0-aab1-5f08efc321a0",
+        "c32b9843-18cd-44df-9d11-6937c88e57fb",
+        "f17f4ac9-1d80-40d6-bcb9-ef4e83872dc0"
+    ],
+    "paths": {
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968": [
+            "texture/white",
+            "cc.ImageAsset"
+        ],
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@6c48a": [
+            "texture/white/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@f9941": [
+            "texture/white/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "76de13a0-47c2-49d0-aab1-5f08efc321a0": [
+            "spine/goblins-ess/goblins-ess",
+            "cc.Asset"
+        ],
+        "f17f4ac9-1d80-40d6-bcb9-ef4e83872dc0": [
+            "spine/goblins-ess/goblins-ess",
+            "sp.SkeletonData"
+        ],
+        "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9": [
+            "spine/goblins-ess/goblins-ess",
+            "cc.ImageAsset"
+        ],
+        "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9@6c48a": [
+            "spine/goblins-ess/goblins-ess/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "735903a1-0554-42b5-a0c7-7eb69932f95a": [
+            "spine/mix-and-match-pro/mix-and-match-pro",
+            "cc.Asset"
+        ],
+        "2e91899e-8494-4ea5-8a84-e66d42d450a3": [
+            "spine/mix-and-match-pro/mix-and-match-pro",
+            "sp.SkeletonData"
+        ],
+        "194dc1cf-d436-4b3a-b02d-baa080284ebd": [
+            "spine/mix-and-match-pro/mix-and-match-pro",
+            "cc.ImageAsset"
+        ],
+        "194dc1cf-d436-4b3a-b02d-baa080284ebd@6c48a": [
+            "spine/mix-and-match-pro/mix-and-match-pro/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c32b9843-18cd-44df-9d11-6937c88e57fb": [
+            "spine/spineboy/spineboy-pro",
+            "cc.Asset"
+        ],
+        "344f4361-25de-4cc0-abd3-9531ff3ba6b5": [
+            "spine/spineboy/spineboy-pro",
+            "sp.SkeletonData"
+        ],
+        "2af2aa58-671b-4e31-b704-fb70797518bd": [
+            "spine/spineboy/spineboy-pro",
+            "cc.ImageAsset"
+        ],
+        "2af2aa58-671b-4e31-b704-fb70797518bd@6c48a": [
+            "spine/spineboy/spineboy-pro/texture",
+            "cc.Texture2D",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "03c3ec700": [
+            "2af2aa58-671b-4e31-b704-fb70797518bd@6c48a",
+            "194dc1cf-d436-4b3a-b02d-baa080284ebd@6c48a",
+            "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9@6c48a",
+            "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {
+        "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9@6c48a": [
+            "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9"
+        ],
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@6c48a": [
+            "1726cb78-8dcc-4061-90ff-6f2ffe3f2968"
+        ],
+        "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@f9941": [
+            "1726cb78-8dcc-4061-90ff-6f2ffe3f2968@6c48a"
+        ],
+        "194dc1cf-d436-4b3a-b02d-baa080284ebd@6c48a": [
+            "194dc1cf-d436-4b3a-b02d-baa080284ebd"
+        ],
+        "2af2aa58-671b-4e31-b704-fb70797518bd@6c48a": [
+            "2af2aa58-671b-4e31-b704-fb70797518bd"
+        ],
+        "2e91899e-8494-4ea5-8a84-e66d42d450a3": [
+            "194dc1cf-d436-4b3a-b02d-baa080284ebd@6c48a"
+        ],
+        "344f4361-25de-4cc0-abd3-9531ff3ba6b5": [
+            "2af2aa58-671b-4e31-b704-fb70797518bd@6c48a"
+        ],
+        "f17f4ac9-1d80-40d6-bcb9-ef4e83872dc0": [
+            "1420f0e2-8852-4708-aca2-8e7f2ed9f1c9@6c48a"
+        ]
+    }
+}

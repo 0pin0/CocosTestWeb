@@ -1,0 +1,31 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "table",
+    "deps": [],
+    "uuids": [
+        "17244af3-00ab-442d-a295-74a998dcba5f",
+        "7ec76376-2393-4ff4-b803-8eda65e77c3e"
+    ],
+    "paths": {
+        "17244af3-00ab-442d-a295-74a998dcba5f": [
+            "ItemCoinTable",
+            "cc.JsonAsset"
+        ],
+        "7ec76376-2393-4ff4-b803-8eda65e77c3e": [
+            "ItemCratesTable",
+            "cc.JsonAsset"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,38 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "girl00103",
+    "deps": [
+        "main"
+    ],
+    "uuids": [
+        "2f500a89-e801-481c-9065-25dd9182b3d0",
+        "adeb7c83-4eed-4f57-a33f-62cc06b76ee1"
+    ],
+    "paths": {
+        "adeb7c83-4eed-4f57-a33f-62cc06b76ee1": [
+            "girlSpine",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "2f500a89-e801-481c-9065-25dd9182b3d0",
+        "0",
+        "2f500a89-e801-481c-9065-25dd9182b3d0",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {
+        "adeb7c83-4eed-4f57-a33f-62cc06b76ee1": [
+            "2f500a89-e801-481c-9065-25dd9182b3d0"
+        ]
+    }
+}

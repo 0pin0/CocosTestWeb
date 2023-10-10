@@ -1,0 +1,45 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "girl00301",
+    "deps": [],
+    "uuids": [
+        "08e5209bd",
+        "36e48263-b5bb-4eb8-aa09-e816490f6590",
+        "36e48263-b5bb-4eb8-aa09-e816490f6590@6c48a",
+        "971b7757-ad6f-4b66-a5cc-c6a9a6f93f31",
+        "e2378f93-092b-4164-9840-d39a231953d2"
+    ],
+    "paths": {
+        "e2378f93-092b-4164-9840-d39a231953d2": [
+            "girlSpine",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "08e5209bd": [
+            "971b7757-ad6f-4b66-a5cc-c6a9a6f93f31",
+            "e2378f93-092b-4164-9840-d39a231953d2"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {
+        "36e48263-b5bb-4eb8-aa09-e816490f6590@6c48a": [
+            "36e48263-b5bb-4eb8-aa09-e816490f6590"
+        ],
+        "971b7757-ad6f-4b66-a5cc-c6a9a6f93f31": [
+            "36e48263-b5bb-4eb8-aa09-e816490f6590@6c48a"
+        ],
+        "e2378f93-092b-4164-9840-d39a231953d2": [
+            "971b7757-ad6f-4b66-a5cc-c6a9a6f93f31"
+        ]
+    }
+}

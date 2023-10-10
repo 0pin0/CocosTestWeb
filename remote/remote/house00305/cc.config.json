@@ -1,0 +1,45 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "house00305",
+    "deps": [],
+    "uuids": [
+        "01289b8d-2ed0-4302-a6aa-518025718ca2",
+        "0c3bbc910",
+        "82871da0-afae-4762-96d4-76a8e82b18c7",
+        "82871da0-afae-4762-96d4-76a8e82b18c7@6c48a",
+        "82871da0-afae-4762-96d4-76a8e82b18c7@f9941"
+    ],
+    "paths": {
+        "01289b8d-2ed0-4302-a6aa-518025718ca2": [
+            "house",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0c3bbc910": [
+            "01289b8d-2ed0-4302-a6aa-518025718ca2",
+            "82871da0-afae-4762-96d4-76a8e82b18c7@f9941"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {
+        "01289b8d-2ed0-4302-a6aa-518025718ca2": [
+            "82871da0-afae-4762-96d4-76a8e82b18c7@f9941"
+        ],
+        "82871da0-afae-4762-96d4-76a8e82b18c7@6c48a": [
+            "82871da0-afae-4762-96d4-76a8e82b18c7"
+        ],
+        "82871da0-afae-4762-96d4-76a8e82b18c7@f9941": [
+            "82871da0-afae-4762-96d4-76a8e82b18c7@6c48a"
+        ]
+    }
+}
