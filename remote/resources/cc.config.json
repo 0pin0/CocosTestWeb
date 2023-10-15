@@ -29,6 +29,7 @@
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
         "735903a1-0554-42b5-a0c7-7eb69932f95a",
+        "74485e6e-41eb-4a3f-8b66-d8d0360779cc",
         "76de13a0-47c2-49d0-aab1-5f08efc321a0",
         "7b267166-2f8e-46a6-8e39-ed913b427d04",
         "8f909a4c-c047-49e2-bf73-e94ba8a77b88",
@@ -44,6 +45,7 @@
         "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a",
         "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
         "c32b9843-18cd-44df-9d11-6937c88e57fb",
+        "c7beb4a4-f75e-478a-8c90-778f3c6c55e6",
         "ce861ddf-df89-49f4-8a15-ccfd5228b7d5",
         "d36339aa-aaee-4983-9bef-4b75a8f380a0",
         "f12a23c4-b924-4322-a260-3d982428f1e8",
@@ -144,6 +146,14 @@
             "spine/spineboy/spineboy-pro/texture",
             "cc.Texture2D",
             1
+        ],
+        "c7beb4a4-f75e-478a-8c90-778f3c6c55e6": [
+            "json/ItemCoinTable",
+            "cc.JsonAsset"
+        ],
+        "74485e6e-41eb-4a3f-8b66-d8d0360779cc": [
+            "json/ItemCratesTable",
+            "cc.JsonAsset"
         ]
     },
     "scenes": {},
