@@ -1,0 +1,19 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "activityDialogList",
+    "deps": [],
+    "uuids": [],
+    "paths": {},
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
